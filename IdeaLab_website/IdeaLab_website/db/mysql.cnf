@@ -1,0 +1,4 @@
+[client]
+database = IdeaLab
+user = root
+default-character-set = utf8
